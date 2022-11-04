@@ -1,8 +1,35 @@
 # Zakhar Barbuk #
 
-## Junior software developer ##
+## Junior Software Developer ##
 
-#### Contacts ####
-###### +375 (29) 239-42-15 ####
-###### zaharbarbuk25@icloud.com ######
-###### [GitHub](https://github.com/barbukzo) ######
+### Contact ###
+###### **Phone:** +375 (29) 239-42-15 ####
+###### **Email:** zaharbarbuk25@icloud.com ######
+###### **Github:** [@barbukzo](https://github.com/barbukzo) ######
+###### **Linkedln:** [Zakhar Barbuk] (linkedin.com/in/zakharbarbuk) ######
+
+### Profile ###
+###### My goal is to become a highly qualified specialist in Software Development. My top priority is to successfully complete assigned tasks on time. I don't have experience in Software Development yet, but i have a strong desire to grow and study. ######
+
+### Skills ###
+* Git and GitHub
+* HTML
+* CSS
+
+### Code Example ###
+```<section class="features">
+    <h2>Что поможет вfа создать доашний уют и nеще?</h2>
+    <p class="feature-furniture">Мебель и фурнитура</p>
+    <p class="feature-lighting">Лампы тошерxы</p>
+    <p class="feature-accessories">Аксессуары и мелочи</p>
+  </section>
+  ```
+  ### Work Experience ###
+  * **Air Traffic Controller**
+    * Belaeronavigatsia 
+    * Aug 2021 - present time
+
+  * **Sales consultant**
+    * PLAY MODA
+    * Aug 2020 - Dec 2021
+    
