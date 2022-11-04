@@ -42,7 +42,7 @@
   * GeekBrains
   * Jun 2022
 
-  ### Languages ###
+### Languages ###
 * **English - Upper-Intermediate(B2)**
   *  Streamline language school
 * **Russian - Native**
