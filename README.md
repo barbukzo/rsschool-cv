@@ -1,1 +1,1 @@
-# rsschool-cv
+https://barbukzo.github.io/rsschool-cv/cv
